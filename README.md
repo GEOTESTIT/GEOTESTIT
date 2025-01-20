@@ -23,9 +23,14 @@
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/ab443237-abc3-40a1-b7fd-91b6fbbef85e" title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/95e4726b-3255-4973-b400-bd33bc8e2990" title="JSON" alt="JSON" width="40" height="40"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/bd0cef25-944c-4d9e-8443-612a37c6b319" title="Jmeter" alt="Jmeter" width="40" height="40"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/3cf9b640-43f2-4395-a128-dd5192e81d02" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
 </div>
 
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](georgiilivematter@gmail.com)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:georgiilivematter@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Bananabooom)
